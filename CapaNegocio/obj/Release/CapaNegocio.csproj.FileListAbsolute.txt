@@ -1,0 +1,9 @@
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\obj\Release\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaNegocio\obj\Release\CapaNegocio.pdb

@@ -1,0 +1,7 @@
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaDatos\obj\Release\CapaDatos.pdb

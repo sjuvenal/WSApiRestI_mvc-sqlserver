@@ -1,0 +1,4 @@
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\Juvenal\Documents\Visual Studio 2012\Projects\WSMovil\Solution1\CapaEntidad\obj\Release\CapaEntidad.pdb

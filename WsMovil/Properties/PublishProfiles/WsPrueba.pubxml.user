@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/Api/Views/Web.config">
+      <publishTime>10/24/2016 17:47:21</publishTime>
+    </File>
+    <File Include="bin/CapaDatos.dll">
+      <publishTime>10/24/2016 18:29:37</publishTime>
+    </File>
+    <File Include="bin/CapaEntidad.dll">
+      <publishTime>10/24/2016 18:29:36</publishTime>
+    </File>
+    <File Include="bin/CapaNegocio.dll">
+      <publishTime>10/24/2016 18:29:37</publishTime>
+    </File>
+    <File Include="bin/es/System.Net.Http.Formatting.resources.dll">
+      <publishTime>10/24/2016 17:46:58</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Helpers.resources.dll">
+      <publishTime>10/24/2016 17:46:54</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.resources.dll">
+      <publishTime>10/24/2016 17:46:57</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.WebHost.resources.dll">
+      <publishTime>10/24/2016 17:46:57</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Mvc.resources.dll">
+      <publishTime>10/24/2016 17:46:55</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Razor.resources.dll">
+      <publishTime>10/24/2016 17:46:53</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>10/24/2016 17:46:55</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>10/24/2016 17:46:55</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.WebPages.resources.dll">
+      <publishTime>10/24/2016 17:46:55</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/24/2016 17:46:46</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/24/2016 17:46:44</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/24/2016 17:46:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>10/24/2016 17:46:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>10/24/2016 17:46:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>10/24/2016 17:46:51</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>10/24/2016 17:46:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>10/24/2016 17:46:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>10/24/2016 17:46:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>10/24/2016 17:46:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>10/24/2016 17:46:47</publishTime>
+    </File>
+    <File Include="bin/WsMovil.dll">
+      <publishTime>10/24/2016 18:29:38</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/24/2016 17:46:34</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/24/2016 17:46:59</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>10/24/2016 17:46:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/24/2016 18:29:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
